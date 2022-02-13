@@ -2,3 +2,20 @@
     background-color: black;
     color: rgb(230, 230, 230);
 }
+
+div.general{
+    width: auto;
+    height: auto;
+    display: inline-block;
+    margin: 100px 200px;
+    line-height: 100px;
+    border:10px solid orange;
+}
+
+p{
+    text-align: center;
+}
+
+h1, h2{
+    text-align: center;
+}
