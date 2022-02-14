@@ -3,9 +3,9 @@
 - 🍏 Maxime CHOUZY
 - 🤖 Développeur WEB - Application (Débutant et actuellement en formation)
 
-🐬 MYSQL
-🐘 PHP
+- 🐬 MYSQL
+- 🐘 PHP
 - C#
 - HTML / CSS
 - JavaScript
-🐍 Python
+- 🐍 Python
